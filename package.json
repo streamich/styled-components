@@ -69,12 +69,12 @@
   "homepage": "https://styled-components.com",
   "dependencies": {
     "buffer": "^5.0.3",
-    "css-to-react-native": "^2.0.3",
-    "fbjs": "^0.8.9",
+    "css-to-react-native": "^2.3.0",
+    "fbjs": "^2.0.0",
     "hoist-non-react-statics": "^1.2.0",
     "is-plain-object": "^2.0.1",
     "opencollective": "^1.0.3",
-    "prop-types": "^15.5.4",
+    "prop-types": "^15.6.2",
     "stylis": "^3.5.0",
     "stylis-rule-sheet": "^0.0.10",
     "supports-color": "^3.2.3"
